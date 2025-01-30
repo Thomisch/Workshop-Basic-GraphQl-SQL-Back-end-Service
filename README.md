@@ -3,6 +3,6 @@ Workshop to create a basic GraphQl back-end service with Sql Database in C# .Net
 
 ### Preriquites: 
 - **.NET SDK** [(téléchargez ici)](https://dotnet.microsoft.com/fr-fr/).
-- **Docker or PostgreSQL directly** [docker]() [(postgresql)](https://www.postgresql.org).
+- **Docker or PostgreSQL directly** [(docker)](https://www.docker.com) [(postgresql)](https://www.postgresql.org).
 
 **time**: ~2h30
